@@ -1,0 +1,12 @@
+{
+  "name": "com.irohachiyo.observablemessages",
+  "version": "0.0.0",
+  "displayName": "Observable Messages",
+  "description": "Make Unity MonoBehaviour's message methods observable.",
+  "unity": "2018.1",
+  "author": {
+    "name": "Iroha Chiyo",
+    "url": "https://twitter.com/irohachiyo"
+  },
+  "type": "tool"
+}
